@@ -1,0 +1,670 @@
+<resources>
+    <string name="app_name">Black</string>
+    <string name="search">Search</string>
+
+    <string name="email"></string>
+    <string name="password"></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="shopping_bag">SHOPPING BAG</string>
+
+    <string-array name="help_items">
+        <item>"Product"</item>
+        <item>"Payment"</item>
+        <item>"Shipping"</item>
+        <item>"Exchanges and returns"</item>
+        <item>"Shops and company"</item>
+    </string-array>
+
+    <string-array name="product_items">
+        <item>"Availability"</item>
+        <item>"Size"</item>
+        <item>"Features and care"</item>
+        <item>"Withdraw items"</item>
+    </string-array>
+
+    <string name="product_availability">"On Black.com you can find new products every week, just like in our stores. If the item you want has sold out but it has the symbol  comming soon , you can register your email address and we will let you know as soon as it becomes available, within 15 days of your registration. This process does not reserve the item."</string>
+    <string name="product_size">"To help you find your size, we provide a tool, "Find My Size", that recommends the best size for you, using the details that you provide. If this option is not available for the item you are interested in, you can always consult our size guide."</string>
+    <string name="product_withdraw_items">"At Black we aim to guarantee maximum quality in our products, and we are committed to being transparent about any items that might have had to be withdrawn from sale for any reason.
+        There are currently no items being withdrawn. For further information about previous withdrawals, please contact our Customer Service Department."</string>
+
+    <string-array name="product_features_and_care">
+        <item>"Materials"</item>
+        <item>"Care instructions"</item>
+        <item>"Glasses"</item>
+        <item>"Perfumes, candles and cosmetics"</item>
+    </string-array>
+    <string name="product_features_and_care_materials">At Zara you can find a wide range of garments in natural, artificial and synthetic materials. You can find detailed information on the composition of each item, both on zara.com and in store.
+
+All our products of animal origin come from animals that are treated in an ethical and responsible manner. You can find out more information by accessing our commitment to animal welfare</string>
+    <string name="product_features_and_care_instructions">"On our website, under the option MATERIALS AND CARE for each item, and on the labels on our clothes. you can find information on how to care for them.
+
+
+Here is some additional advice for each type of fabric used:
+
+Cotton
+Due to its hygroscopicity and morphology, items made from this fibre provide natural comfort and a pleasant feel, making it the ideal choice for garments that come into direct contact with the skin. It can be washed by conventional methods, provided that the colour and finish permit it, according to the symbols and instructions on the label.
+
+Tencel
+This is an artificial cellulose fibre. It offers an exceptional combination: smooth, strong, cool, absorbent, and barely any tendency to pill. It doesn't tend to crease or shrink, and can be easily ironed.
+
+Wool
+As this is a natural fibre, it has a high degree of moisture absorption, it is flexible and has good insulating properties for protection against the cold. Woollen items do not crease easily, they are soft to the touch, warm, and suitable for autumn and winter garments. If pilling develops, the bobbles can be easily removed. Bear in mind that it shrinks by felting and should be washed by hand, at low temperatures, or dry cleaned, always following the washing instructions on our label.
+
+Polyester
+This is a very hard-wearing, versatile synthetic fibre, with low moisture absorption, that can accumulate static electricity. Easy care, it does not shrink or crease when washed, and it dries rapidly, although it can develop pilling. If this happens, pills can be removed by cutting the fibres.
+
+Linen
+This natural fibre provides a comfortable fresh feeling. It is strong, with little elasticity, and very absorbent, which is why it is common to see it in our summer garments. We usually recommend washing it by hand, as it has a strong tendency to shrink and crease.
+
+Silk
+Natural fibre with a very characteristic feel and sheen. Good moisture absorption. Cannot be washed at high temperatures, or spun, therefore it is not advisable to dry it in a tumble drier. We usually recommend dry cleaning, and when ironing, always place a cloth over it.
+
+Down and padded jackets
+Garments with both natural fibres and synthetic fibres can be washed by machine. We recommend turning the item inside out and closing zips and hook and look straps. Drying is very important, to avoid the feathers clumping. You can use a tumble dryer.
+
+Leather and suede
+If the cleaning is superficial, we recommend using a damp cloth. If you need to do a deep clean, we recommend using a specialist in these materials.
+
+Avoid colours fading
+Due to the dying processes used, some of our garments can fade more than others. To advise you in advance of this, we mark the labels of these garments with a WARNING.
+
+Garments with decorative detailing
+We recommend removing any detachable detailing from the garment before washing it, whenever possible.
+
+Footwear and bags
+As basic advice for good maintenance of your footwear and bags, we recommend that you clean them before storing in a ventilated space and if possible, with something that helps them maintain their shape. If the item is leather, do not submerge it in water to clean, and if it has stubborn stains, use a specialist."</string>
+    <string name="product_features_and_care_glasses">"Sunglasses: All our sunglasses use lenses that protect from ultraviolet radiation (UV-A and UV-B) and reduce visible radiation, depending on the filter category indicated in the accompanying leaflet.
+
+The category of protective filter on sunglasses is indicated on the sticker on one of the lenses of the glasses and the features are in the accompanying leaflet."</string>
+    <string name="product_features_and_care_cosmetics">"Our perfumes and their ingredients are not tested on animals to evaluate the product or for any other reason. They are dermatologically tested: skin compatibility testing is done under dermatological control.
+
+Composition: Each of our products has a list of ingredients. You can consult the label for each product.
+Care recommendations for perfumes: Store in a cool place and do not expose directly to sunlight. Store perfume upright, not on its side.
+The ingredients in our candles are vegetable oil-basedwax.
+Our lipsticks are made with waxes and oils to obtain a comfortable and creamy texture. Keep in mind that if exposed to sudden changes in temperature, these oils may appear as small droplets on the surface of the lipstick The lipstick will retain its original appearance, without affecting the product quality, when the temperature stabilises."</string>
+    <string-array name="payment_items">
+        <item>"Payment methods"</item>
+        <item>"Time of payment"</item>
+        <item>"Secure purchasing"</item>
+        <item>"Company invoice"</item>
+    </string-array>
+    <string name="payment_methods">We offer the following payment methods:</string>
+    <string name="time_of_payment">"Your purchase will be charged when your order is sent out.
+
+Some banks may show both a pre-authorisation and the actual subsequent charge. This amount will be automatically released. If this does not happen, we recommend that you contact your bank to expedite the release of the pre-authorisation."</string>
+    <string name="secure_purchasing">"The security of the information our customers submit on Black.com is one of our highest priorities.
+
+At Black.com, we invest huge amounts of resources and use the latest technologies so that your payment details are processed in a secure environment.
+
+Our e-commerce platform has been awarded certifications for best practice when managing information, security, and complying with the Payment Card Industry Data Security Standard requirements, which verify that we follow the industry's strictest recommendations and standards to provide you with a purchasing experience in a private, integrated and secure environment."</string>
+    <string name="company_invoice">"To make the purchase as a company, simply click on the option "business" in personal details and fill in the tax information we request."</string>
+    <string-array name="shipping_items">
+        <item>"Delivery methods and costs"</item>
+        <item>"Order status"</item>
+        <item>"Restrictions"</item>
+        <item>"Split orders"</item>
+    </string-array>
+    <string name="shipping_delivery_methods">"The shipping options may vary depending on the delivery address, what time you make your purchase and item availability.
+
+At the time of processing your purchase, we will show you the available shipping methods, the cost and the delivery date of your order.
+
+Delivery options:
+
+Collection at a Zara store - FREE
+
+In the store of your choice within 1-3 working days.
+
+Remember that the person who comes to collect the order must show an ID document, whether it is the purchaser or another person representing him or her.
+
+Home delivery:
+
+Standard delivery - 69 EGP / FREE (Orders over 999 EGP)
+
+The estimated delivery time will be between 1-3 working days, depending on the delivery address.
+
+The time frames shown above will be extended for remote areas.
+
+Bear in mind that deliveries are only made on working days."</string>
+    <string name="shipping_order_status">"You will receive email updates on the status of your order.
+
+You can also access this information in the section "My Account".  If you are not registered, click on the “Order information” link in the confirmation email to track your order."</string>
+    <string name="shipping_Restrictions">"We try to reach all corners of the earth from Zara.com. If there are any delivery restrictions on your address, you will see them at the time of purchase."</string>
+    <string name="shipping_split_orders">"It is possible that your order be dispatched from different logistics centres. If this happens, we'll let you know by email which items you will receive in each shipment."</string>
+    <string-array name="exchange_exchanges_and_returns">
+        <item>"How to return"</item>
+        <item>"How to exchange"</item>
+        <item>"Special conditions"</item>
+        <item>"Refund"</item>
+    </string-array>
+    <string name="exchange_how_to_return">"You have 30 days from the shipping date of your order to return your purchase from Zara.com free of charge.
+
+These are the options for returning your item(s):
+
+
+Zara store
+You can return your order at any Zara store in the same market/region where you made the purchase.
+
+You only have to present the purchase receipt along with the items you wish to return. You can show it on the screen of your mobile device or print it out.
+
+Remember that you do not need to make a return request via the website or the app for in-store returns.
+
+Bear in mind that if you cannot make it to a physical store yourself, you can allow someone else to go for you.
+
+How can I get a copy of my purchase receipt?
+
+If you have an account with Zara.com, log in with your username and password. In the order details for the item(s) you wish to return, you will have the option to download the e-receipt.
+If you made the purchase as a guest, you can find the e-receipt by clicking on the link included in the emails we have sent regarding your order.
+Find your nearest store here.
+
+
+Home collection
+If you made your purchase as a registered user: Log in with your username and password. You can make a return request from the order details screen. We will send a courier to pick up your package at the address of your choice within 24-48 hours.
+If you made your purchase as a guest: Request a refund by clicking on the link that appears in any of the emails we have sent you about your order.
+Remember that you must send the items you wish to return within 30 days from the shipping date of your purchase, before the return period expires.
+
+You can find further information on the Exchange and Refunds Policy and the right to waiver in our Terms and Conditions of Purchase
+
+
+Frequently asked questions"</string>
+    <string name="exchange_how_to_exchange">"You have 30 days from the shipping date to exchange your purchase from Zara.com FREE OF CHARGE.
+
+You can change the size or colour of your items. If you prefer to exchange it for another item, you must ask for a return and make a new purchase.
+
+Exchanging an item bought on Zara.com is very easy. Visit a Zara store that has the same department that the item belongs to, with your receipt, and hand over the original to receive the new one.
+
+You can find further information on the Exchange and Refunds Policy and the right to waiver in our Terms and Conditions of Purchase."</string>
+    <string name="exchange_special_conditions">"Due to their special features, some of our items have to fulfil certain criteria to be returned:
+
+-Swimwear: must include the hygiene sticker.
+-Underwear: underwear items may not be exchanged or returned except for tops, bodysuits and vests from the Kids’ section kept in their original packaging.
+-Accessories: must be returned with the original packaging intact.
+-Fragrances: must be returned in the original sealed packaging.
+-Cosmetics: must be returned in the same packaging and in original condition."</string>
+    <string name="exchange_Refund">"The refund will be made via the same payment method used to make the purchase.
+Except for orders paid for by Cash on Delivery for which refunds shall be made via bank transfer.  If you wish to be refunded CASH, you can request your return directly in one of our stores. Please also note that, if you enter your bank details during the return request, all the refunds related to this order will be done only through bank transfer.
+
+You will receive email confirmation of the return once it has been completed.
+
+If you have not received a refund in your account after more than 14 days, please show the confirmation to your bank so that they can help you and speed up the process."</string>
+    <string-array name="shopes">
+        <item>"General information"</item>
+        <item>"Availability of a product"</item>
+        <item>"Exchanges and returns"</item>
+    </string-array>
+    <string name="shopes_information">"We have provided a Store locator, where you can consult our stores' addresses, telephone numbers and sections (Woman, Man, Kids).
+
+If you have any queries or suggestions, please contact us through any of the Customer Service channels, and we will be pleased to help you."</string>
+    <string name="shopes_availability">"If the item you are looking for is not available either in store or on the website, please contact us and we will help you try to find it. It will be easier to search if you have the reference number.
+-Please remember that, assuming the item is available on the website, you will be able to find it in the store of your choice by using the option Check in-store availability*.
+-Please bear in mind that stock figures are always for guidance. This information is not available during sales."</string>
+    <string name="shopes_exchanges">"Exchanges and returns can be made within 30 days of the purchase date.
+
+To exchange or return any purchase made in our stores, it is vital that you show the paper receipt.
+
+The credit will be paid using the original payment method used for the purchase. Please remember that exchanges and returns can only be done in the same country/region where the items were bought.
+
+Special terms and conditions for exchanges and returns of certain items:
+
+-Swimwear: must include the hygiene sticker.
+-Underwear: underwear items may not be exchanged or returned except for tops, bodysuits and vests from the Kids’ section kept in their original packaging.
+-Accessories: must be returned with the original packaging intact.
+-Fragrances: must be returned in the original sealed packaging.
+-Cosmetics: must be returned in the same packaging and in original condition."</string>
+    <string name="return_trems">Return timeframes will be extended up to 10 days after the reopening of out stores</string>
+
+    <string-array name="men_items_name">
+        <item>"WATER REPELLENT TRAVELLER OVERSHIRT"</item>
+        <item>"TEXTURED BIKER JACKET"</item>
+        <item>"CHECK-TEXTURE SWEATSHIRT"</item>
+        <item>"SOFT DENIM CARGO TROUSERS"</item>
+        <item>"DENIM JACKET WITH FAUX SHEARLING"</item>
+        <item>"TEXTURED SWEATSHIRT WITH SLOGAN"</item>
+        <item>"PHOTOGRAPHIC PRINT SWEATSHIRT"</item>
+        <item>"DENIM GRAFFITI JACKET"</item>
+        <item>"PIQUÉ BOMBER JACKET"</item>
+        <item>"PADDED UTILITY PARKA"</item>
+        <item>"GRAFFITI PRINT FAUX LEATHER BIKER JACKET"</item>
+        <item>"EASY CARE DIAGONAL TEXTURED JACKET"</item>
+    </string-array>
+
+    <integer-array name="men_items_price">
+        <item>1199</item>
+        <item>1366</item>
+        <item>699</item>
+        <item>1199</item>
+        <item>1399</item>
+        <item>699</item>
+        <item>799</item>
+        <item>1299</item>
+        <item>1199</item>
+        <item>2199</item>
+        <item>1199</item>
+        <item>1399</item>
+    </integer-array>
+
+    <integer-array name="men_items_sale_price">
+        <item>499</item>
+        <item>799</item>
+        <item>399</item>
+        <item>499</item>
+        <item>799</item>
+        <item>399</item>
+        <item>399</item>
+        <item>799</item>
+        <item>499</item>
+        <item>1199</item>
+        <item>799</item>
+        <item>499</item>
+    </integer-array>
+
+    <integer-array name="men_imgs">
+        <item>@drawable/men_1_1</item>
+        <item>@drawable/men_2_1</item>
+        <item>@drawable/men_3_1</item>
+        <item>@drawable/men_4_1</item>
+        <item>@drawable/men_5_1</item>
+        <item>@drawable/men_6_1</item>
+        <item>@drawable/men_7_1</item>
+        <item>@drawable/men_8_1</item>
+        <item>@drawable/men_9_1</item>
+        <item>@drawable/men_10_1</item>
+        <item>@drawable/men_11_1</item>
+        <item>@drawable/men_12_1</item>
+    </integer-array>
+
+    <integer-array name="men_1">
+        <item>@drawable/men_1_1</item>
+        <item>@drawable/men_1_2</item>
+        <item>@drawable/men_1_3</item>
+        <item>@drawable/men_1_4</item>
+    </integer-array>
+
+    <integer-array name="men_2">
+        <item>@drawable/men_2_1</item>
+        <item>@drawable/men_2_2</item>
+        <item>@drawable/men_2_3</item>
+        <item>@drawable/men_2_4</item>
+        <item>@drawable/men_2_5</item>
+        <item>@drawable/men_2_6</item>
+    </integer-array>
+    <integer-array name="men_3">
+        <item>@drawable/men_3_1</item>
+        <item>@drawable/men_3_2</item>
+        <item>@drawable/men_3_3</item>
+        <item>@drawable/men_3_4</item>
+        <item>@drawable/men_3_5</item>
+    </integer-array>
+    <integer-array name="men_4">
+        <item>@drawable/men_4_1</item>
+        <item>@drawable/men_4_2</item>
+        <item>@drawable/men_4_3</item>
+        <item>@drawable/men_4_4</item>
+        <item>@drawable/men_4_5</item>
+    </integer-array>
+    <integer-array name="men_5">
+        <item>@drawable/men_5_1</item>
+        <item>@drawable/men_5_2</item>
+        <item>@drawable/men_5_3</item>
+        <item>@drawable/men_5_4</item>
+        <item>@drawable/men_5_5</item>
+        <item>@drawable/men_5_6</item>
+    </integer-array>
+    <integer-array name="men_6">
+        <item>@drawable/men_6_1</item>
+        <item>@drawable/men_6_2</item>
+        <item>@drawable/men_6_3</item>
+        <item>@drawable/men_6_4</item>
+        <item>@drawable/men_6_5</item>
+    </integer-array>
+
+    <integer-array name="men_7">
+        <item>@drawable/men_7_1</item>
+        <item>@drawable/men_7_2</item>
+        <item>@drawable/men_7_3</item>
+        <item>@drawable/men_7_4</item>
+        <item>@drawable/men_7_5</item>
+        <item>@drawable/men_7_6</item>
+    </integer-array>
+    <integer-array name="men_8">
+        <item>@drawable/men_8_1</item>
+        <item>@drawable/men_8_2</item>
+        <item>@drawable/men_8_3</item>
+        <item>@drawable/men_8_4</item>
+        <item>@drawable/men_8_5</item>
+        <item>@drawable/men_8_6</item>
+    </integer-array>
+    <integer-array name="men_9">
+        <item>@drawable/men_9_1</item>
+        <item>@drawable/men_9_2</item>
+        <item>@drawable/men_9_3</item>
+        <item>@drawable/men_9_4</item>
+        <item>@drawable/men_9_5</item>
+        <item>@drawable/men_9_6</item>
+    </integer-array>
+    <integer-array name="men_10">
+        <item>@drawable/men_10_1</item>
+        <item>@drawable/men_10_2</item>
+        <item>@drawable/men_10_3</item>
+        <item>@drawable/men_10_4</item>
+        <item>@drawable/men_10_5</item>
+        <item>@drawable/men_10_6</item>
+    </integer-array>
+
+    <integer-array name="men_11">
+        <item>@drawable/men_11_1</item>
+        <item>@drawable/men_11_2</item>
+        <item>@drawable/men_11_3</item>
+        <item>@drawable/men_11_4</item>
+        <item>@drawable/men_11_5</item>
+        <item>@drawable/men_11_6</item>
+    </integer-array>
+
+    <integer-array name="men_12">
+        <item>@drawable/men_12_1</item>
+        <item>@drawable/men_12_2</item>
+        <item>@drawable/men_12_3</item>
+        <item>@drawable/men_12_4</item>
+        <item>@drawable/men_12_5</item>
+        <item>@drawable/men_12_6</item>
+    </integer-array>
+
+    <string-array name="women_items_name">
+        <item>"FLORAL PRINT DRESS"</item>
+        <item>"KNIT HOODIE WITH RUFFLES"</item>
+        <item>"HOODIE WITH METAL APPLIQUÉS"</item>
+        <item>"GEM BUTTON CARDIGAN"</item>
+        <item>"GATHERED DRESS"</item>
+        <item>"LACE TOP"</item>
+        <item>"A-LINE DRESS"</item>
+        <item>"PURL-KNIT SWEATER"</item>
+        <item>"SOFT-TOUCH T-SHIRT"</item>
+        <item>"LOOSE-FITTING PRINTED SHIRT"</item>
+        <item>"KNIT JOGGING TROUSERS"</item>
+        <item>"WATER-REPELLENT JACKET"</item>
+    </string-array>
+
+    <integer-array name="women_items_price">
+        <item>1199</item>
+        <item>799</item>
+        <item>799</item>
+        <item>799</item>
+        <item>399</item>
+        <item>599</item>
+        <item>599</item>
+        <item>699</item>
+        <item>359</item>
+        <item>599</item>
+        <item>699</item>
+        <item>1399</item>
+    </integer-array>
+
+    <integer-array name="women_items_sale_price">
+        <item>499</item>
+        <item>399</item>
+        <item>399</item>
+        <item>399</item>
+        <item>159</item>
+        <item>360</item>
+        <item>260</item>
+        <item>359</item>
+        <item>159</item>
+        <item>359</item>
+        <item>399</item>
+        <item>799</item>
+    </integer-array>
+
+    <integer-array name="women_imgs">
+        <item>@drawable/women_1_1</item>
+        <item>@drawable/women_2_1</item>
+        <item>@drawable/women_3_1</item>
+        <item>@drawable/women_4_1</item>
+        <item>@drawable/women_5_1</item>
+        <item>@drawable/women_6_1</item>
+        <item>@drawable/women_7_1</item>
+        <item>@drawable/women_8_1</item>
+        <item>@drawable/women_9_1</item>
+        <item>@drawable/women_10_1</item>
+        <item>@drawable/women_11_1</item>
+        <item>@drawable/women_12_1</item>
+    </integer-array>
+
+    <integer-array name="women_1">
+        <item>@drawable/women_1_1</item>
+        <item>@drawable/women_1_2</item>
+        <item>@drawable/women_1_3</item>
+        <item>@drawable/women_1_4</item>
+        <item>@drawable/women_1_5</item>
+        <item>@drawable/women_1_6</item>
+    </integer-array>
+
+    <integer-array name="women_2">
+        <item>@drawable/women_2_1</item>
+        <item>@drawable/women_2_2</item>
+        <item>@drawable/women_2_3</item>
+        <item>@drawable/women_2_4</item>
+        <item>@drawable/women_2_5</item>
+        <item>@drawable/women_2_6</item>
+    </integer-array>
+    <integer-array name="women_3">
+        <item>@drawable/women_3_1</item>
+        <item>@drawable/women_3_2</item>
+        <item>@drawable/women_3_3</item>
+        <item>@drawable/women_3_4</item>
+        <item>@drawable/women_3_5</item>
+        <item>@drawable/women_3_6</item>
+    </integer-array>
+    <integer-array name="women_4">
+        <item>@drawable/women_4_1</item>
+        <item>@drawable/women_4_2</item>
+        <item>@drawable/women_4_3</item>
+        <item>@drawable/women_4_4</item>
+        <item>@drawable/women_4_5</item>
+        <item>@drawable/women_4_6</item>
+    </integer-array>
+    <integer-array name="women_5">
+        <item>@drawable/women_5_1</item>
+        <item>@drawable/women_5_2</item>
+        <item>@drawable/women_5_3</item>
+        <item>@drawable/women_5_4</item>
+        <item>@drawable/women_5_5</item>
+        <item>@drawable/women_5_6</item>
+    </integer-array>
+    <integer-array name="women_6">
+        <item>@drawable/women_6_1</item>
+        <item>@drawable/women_6_2</item>
+        <item>@drawable/women_6_3</item>
+        <item>@drawable/women_6_4</item>
+        <item>@drawable/women_6_5</item>
+    </integer-array>
+
+    <integer-array name="women_7">
+        <item>@drawable/women_7_1</item>
+        <item>@drawable/women_7_2</item>
+        <item>@drawable/women_7_3</item>
+        <item>@drawable/women_7_4</item>
+        <item>@drawable/women_7_5</item>
+        <item>@drawable/women_7_6</item>
+    </integer-array>
+    <integer-array name="women_8">
+        <item>@drawable/women_8_1</item>
+        <item>@drawable/women_8_2</item>
+        <item>@drawable/women_8_3</item>
+        <item>@drawable/women_8_4</item>
+        <item>@drawable/women_8_5</item>
+        <item>@drawable/women_8_6</item>
+    </integer-array>
+    <integer-array name="women_9">
+        <item>@drawable/women_9_1</item>
+        <item>@drawable/women_9_2</item>
+        <item>@drawable/women_9_3</item>
+        <item>@drawable/women_9_4</item>
+        <item>@drawable/women_9_5</item>
+        <item>@drawable/women_9_6</item>
+    </integer-array>
+    <integer-array name="women_10">
+        <item>@drawable/women_10_1</item>
+        <item>@drawable/women_10_2</item>
+        <item>@drawable/women_10_3</item>
+        <item>@drawable/women_10_4</item>
+        <item>@drawable/women_10_5</item>
+        <item>@drawable/women_10_6</item>
+    </integer-array>
+
+    <integer-array name="women_11">
+        <item>@drawable/women_11_1</item>
+        <item>@drawable/women_11_2</item>
+        <item>@drawable/women_11_3</item>
+        <item>@drawable/women_11_4</item>
+        <item>@drawable/women_11_5</item>
+        <item>@drawable/women_11_6</item>
+    </integer-array>
+
+    <integer-array name="women_12">
+        <item>@drawable/women_12_1</item>
+        <item>@drawable/women_12_2</item>
+        <item>@drawable/women_12_3</item>
+        <item>@drawable/women_12_4</item>
+        <item>@drawable/women_12_5</item>
+        <item>@drawable/women_12_6</item>
+    </integer-array>
+
+    <string-array name="kid_items_name">
+        <item>"QUILTED DIAMOND PATTERN COAT"</item>
+        <item>"RUBBERISED PARKA"</item>
+        <item>"STRIPED SHIRT DRESS"</item>
+        <item>"T-SHIRT WITH PRINT"</item>
+        <item>"DENIM BABY-DOLL DRESS"</item>
+        <item>"INDIGO JOGGER JEANS"</item>
+        <item>"RUFFLED SHIRT"</item>
+        <item>"INDIGO JOGGER JEANS"</item>
+        <item>"SEAMED SWEATSHIRT"</item>
+        <item>"THE ROLLING STONES ® JACKET"</item>
+        <item>"COAT WITH CONTRAST FAUX SHEARLING"</item>
+        <item>"GINGHAM SHIRT"</item>
+    </string-array>
+
+    <integer-array name="kid_items_price">
+        <item>899</item>
+        <item>639</item>
+        <item>529</item>
+        <item>299</item>
+        <item>529</item>
+        <item>429</item>
+        <item>429</item>
+        <item>429</item>
+        <item>399</item>
+        <item>999</item>
+        <item>999</item>
+        <item>399</item>
+    </integer-array>
+
+    <integer-array name="kid_items_sale_price">
+        <item>429</item>
+        <item>399</item>
+        <item>319</item>
+        <item>199</item>
+        <item>319</item>
+        <item>319</item>
+        <item>239</item>
+        <item>319</item>
+        <item>239</item>
+        <item>799</item>
+        <item>649</item>
+        <item>239</item>
+    </integer-array>
+
+    <integer-array name="kid_imgs">
+        <item>@drawable/kid_1_1</item>
+        <item>@drawable/kid_2_1</item>
+        <item>@drawable/kid_3_1</item>
+        <item>@drawable/kid_4_1</item>
+        <item>@drawable/kid_5_1</item>
+        <item>@drawable/kid_6_1</item>
+        <item>@drawable/kid_7_1</item>
+        <item>@drawable/kid_8_1</item>
+        <item>@drawable/kid_9_1</item>
+        <item>@drawable/kid_10_1</item>
+        <item>@drawable/kid_11_1</item>
+        <item>@drawable/kid_12_1</item>
+    </integer-array>
+
+    <integer-array name="kid_1">
+        <item>@drawable/kid_1_1</item>
+        <item>@drawable/kid_1_2</item>
+        <item>@drawable/kid_1_3</item>
+        <item>@drawable/kid_1_4</item>
+        <item>@drawable/kid_1_5</item>
+        <item>@drawable/kid_1_6</item>
+    </integer-array>
+
+    <integer-array name="kid_2">
+        <item>@drawable/kid_2_1</item>
+        <item>@drawable/kid_2_2</item>
+        <item>@drawable/kid_2_3</item>
+        <item>@drawable/kid_2_4</item>
+    </integer-array>
+    <integer-array name="kid_3">
+        <item>@drawable/kid_3_1</item>
+        <item>@drawable/kid_3_2</item>
+
+    </integer-array>
+    <integer-array name="kid_4">
+        <item>@drawable/kid_4_1</item>
+        <item>@drawable/kid_4_2</item>
+        <item>@drawable/kid_4_3</item>
+        <item>@drawable/kid_4_4</item>
+    </integer-array>
+    <integer-array name="kid_5">
+        <item>@drawable/kid_5_1</item>
+        <item>@drawable/kid_5_2</item>
+        <item>@drawable/kid_5_3</item>
+        <item>@drawable/kid_5_4</item>
+        <item>@drawable/kid_5_5</item>
+        <item>@drawable/kid_5_6</item>
+    </integer-array>
+    <integer-array name="kid_6">
+        <item>@drawable/kid_6_1</item>
+        <item>@drawable/kid_6_2</item>
+        <item>@drawable/kid_6_3</item>
+        <item>@drawable/kid_6_4</item>
+    </integer-array>
+
+    <integer-array name="kid_7">
+        <item>@drawable/kid_7_1</item>
+        <item>@drawable/kid_7_2</item>
+        <item>@drawable/kid_7_3</item>
+        <item>@drawable/kid_7_4</item>
+    </integer-array>
+    <integer-array name="kid_8">
+        <item>@drawable/kid_8_1</item>
+        <item>@drawable/kid_8_2</item>
+    </integer-array>
+    <integer-array name="kid_9">
+        <item>@drawable/kid_9_1</item>
+        <item>@drawable/kid_9_2</item>
+        <item>@drawable/kid_9_3</item>
+    </integer-array>
+    <integer-array name="kid_10">
+        <item>@drawable/kid_10_1</item>
+        <item>@drawable/kid_10_2</item>
+        <item>@drawable/kid_10_3</item>
+        <item>@drawable/kid_10_4</item>
+    </integer-array>
+
+    <integer-array name="kid_11">
+        <item>@drawable/kid_11_1</item>
+        <item>@drawable/kid_11_2</item>
+        <item>@drawable/kid_11_3</item>
+        <item>@drawable/kid_11_4</item>
+    </integer-array>
+
+    <integer-array name="kid_12">
+        <item>@drawable/kid_12_1</item>
+        <item>@drawable/kid_12_2</item>
+        <item>@drawable/kid_12_3</item>
+        <item>@drawable/kid_12_4</item>
+    </integer-array>
+
+
+</resources>
